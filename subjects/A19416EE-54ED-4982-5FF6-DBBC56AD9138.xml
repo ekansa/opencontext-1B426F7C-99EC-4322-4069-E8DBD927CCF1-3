@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="A19416EE-54ED-4982-5FF6-DBBC56AD9138" ownedBy="1B426F7C-99EC-4322-4069-E8DBD927CCF1">
+  <arch:name>
+    <arch:string>13418.F3</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_13_a7b05e89b</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>42BA365B-D859-4E1A-457C-1E69213B7D88</arch:variableID>
+          <arch:valueID>4626C76D-00D0-4D57-736D-B4D460317B73</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/838E1899-CBC1-4DF9-4F5B-A6DEA4F59B8D">838E1899-CBC1-4DF9-4F5B-A6DEA4F59B8D</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Astragalus (talus, tibial tarsal)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="42BA365B-D859-4E1A-457C-1E69213B7D88" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="838E1899-CBC1-4DF9-4F5B-A6DEA4F59B8D" localURI="http://opencontext.org/properties/838E1899-CBC1-4DF9-4F5B-A6DEA4F59B8D" href="http://purl.obolibrary.org/obo/UBERON_0002395">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>talus</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>24AFEE1A-6CCA-474A-774B-C0C49AD6E74C</arch:variableID>
+          <arch:valueID>982DDCD3-33FD-4FE0-8E25-C82EC0DACFB7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/47E7B1D8-6AB2-4546-F354-D8E625CA5704">47E7B1D8-6AB2-4546-F354-D8E625CA5704</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Ovis</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="24AFEE1A-6CCA-474A-774B-C0C49AD6E74C" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="47E7B1D8-6AB2-4546-F354-D8E625CA5704" localURI="http://opencontext.org/properties/47E7B1D8-6AB2-4546-F354-D8E625CA5704" href="http://eol.org/pages/39510">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Ovis</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3954EC9C-4550-4F6C-50E2-F57C7CE64C14</arch:variableID>
+          <arch:valueID>BD333AD0-350B-44AD-8877-E46BCE6FD1D5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/599B5A8E-B4F3-461B-2C48-ABC59E41B882">599B5A8E-B4F3-461B-2C48-ABC59E41B882</oc:propid>
+          <oc:var_label type="nominal">Symmetry</oc:var_label>
+          <oc:show_val>Left</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BBEF038B-8FDD-486A-3BED-E12800336F8E</arch:variableID>
+          <arch:valueID>CEE7C169-0E9C-40B4-951C-A4F203E9A0CC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/091C99DA-BA4C-4B89-3D8F-E51FA22C8E0D">091C99DA-BA4C-4B89-3D8F-E51FA22C8E0D</oc:propid>
+          <oc:var_label type="alphanumeric">Letter Code</oc:var_label>
+          <oc:show_val>F</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7365BD8D-1B0C-413C-4537-8AA96ACCDE64</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/CD01FB75-6D78-4CEA-600F-2AD76BD7044D">CD01FB75-6D78-4CEA-600F-2AD76BD7044D</oc:propid>
+          <oc:var_label type="alphanumeric">Find Number</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7AD24632-7FB5-4F21-694B-9079B6E6C56B</arch:variableID>
+          <arch:valueID>BD1DABCF-1DD5-4F30-D64D-C7AC145D43BF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8E33E7AB-3C8A-4539-8D8E-B892B270C522">8E33E7AB-3C8A-4539-8D8E-B892B270C522</oc:propid>
+          <oc:var_label type="nominal">Validity</oc:var_label>
+          <oc:show_val>Full</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>289A21C3-A1DE-4020-95B1-2132762E9DA9</arch:variableID>
+          <arch:valueID>0BC8BEA9-A475-4E24-0794-146210BAE154</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5F5545D7-ED55-4EEF-6A76-D9B6EC541C1E">5F5545D7-ED55-4EEF-6A76-D9B6EC541C1E</oc:propid>
+          <oc:var_label type="nominal">Recovery</oc:var_label>
+          <oc:show_val>4mm dry sieve</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D395515D-1CB4-4160-D7C0-931A47571D90</arch:variableID>
+          <arch:valueID>401592B9-8552-4515-FAFE-56C134CCDD80</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/068216CF-C1CA-4B51-31FF-FE0EB1330E73">068216CF-C1CA-4B51-31FF-FE0EB1330E73</oc:propid>
+          <oc:var_label type="nominal">Certainty</oc:var_label>
+          <oc:show_val>Certain</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>621749B4-1CDC-4CE4-95B6-FFA50F75BB0E</arch:variableID>
+          <arch:valueID>B2639A5D-57B3-4CDC-ED10-FDB5D7AEFC94</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/63587BCC-0B34-46A5-D13B-A6B59B72A844">63587BCC-0B34-46A5-D13B-A6B59B72A844</oc:propid>
+          <oc:var_label type="nominal">Weathering</oc:var_label>
+          <oc:show_val>Very slight weathering</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>744984F7-5DD2-4650-821C-4C1F778F3A4B</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/FE056F17-5F29-423E-5784-53E584BEF756">FE056F17-5F29-423E-5784-53E584BEF756</oc:propid>
+          <oc:var_label type="integer"># Of Fragments</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>435A64EC-0D09-4005-F7ED-98953470CAB0</arch:variableID>
+          <arch:decimal>1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/EC2892EC-6398-4ECD-0CD7-E9C08E9A6039">EC2892EC-6398-4ECD-0CD7-E9C08E9A6039</oc:propid>
+          <oc:var_label type="decimal">Diagnostic Zones (after Watson 1979)</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7EAC2E7B-D318-4370-F7FF-7AAC394BBF66</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6CA556D8-4723-40DE-0F1D-4926B7402B29">6CA556D8-4723-40DE-0F1D-4926B7402B29</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2BD6E5FA-7E38-48C3-B55D-4DCA7627A373</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/centimeter" name="centimeter" abrv="">3</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/39A25FFC-9BFB-4379-8002-7FA7EB367BD1">39A25FFC-9BFB-4379-8002-7FA7EB367BD1</oc:propid>
+          <oc:var_label type="decimal">Length (cm)</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>385D45CF-E284-402F-139F-2656E40FEC58</arch:variableID>
+          <arch:valueID>5F5B4547-3304-4FF9-5C5E-D96B52FB8C6E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/642CB3C2-A41B-43C3-ECAE-684847121558">642CB3C2-A41B-43C3-ECAE-684847121558</oc:propid>
+          <oc:var_label type="nominal">Artifacts</oc:var_label>
+          <oc:show_val>Yes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CAB1A7AE-7088-4F74-C010-C4FDAF719808</arch:variableID>
+          <arch:valueID>533CE317-7BE2-4BBE-E816-DADFD8B499E9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/306ABA97-8653-48DD-1F14-49CBBBDE4AD2">306ABA97-8653-48DD-1F14-49CBBBDE4AD2</oc:propid>
+          <oc:var_label type="nominal">Fragment Size</oc:var_label>
+          <oc:show_val>Complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>798EA011-7591-4F0F-661F-E42393B6FEBC</arch:variableID>
+          <oc:annotations about="798EA011-7591-4F0F-661F-E42393B6FEBC" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0018" name="Dl" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">15.7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C0BF2223-DEB3-4019-7EBB-96B9A8417CDA">C0BF2223-DEB3-4019-7EBB-96B9A8417CDA</oc:propid>
+          <oc:var_label type="decimal">Dl::Standard measurement</oc:var_label>
+          <oc:show_val>15.7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F55DBCA4-3E9E-42A7-F0AE-E25FB451A153</arch:variableID>
+          <oc:annotations about="F55DBCA4-3E9E-42A7-F0AE-E25FB451A153" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0030" name="GLm" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">25.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A58452DD-633A-49D3-7761-BB6EB8D85089">A58452DD-633A-49D3-7761-BB6EB8D85089</oc:propid>
+          <oc:var_label type="decimal">GLm::Standard measurement</oc:var_label>
+          <oc:show_val>25.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C6D41AA2-F0B2-47E0-4E8C-852609D33B2D</arch:variableID>
+          <oc:annotations about="C6D41AA2-F0B2-47E0-4E8C-852609D33B2D" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0019" name="Dm" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">15.7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A10FBA3B-9663-4706-6D10-B7BDD93CD969">A10FBA3B-9663-4706-6D10-B7BDD93CD969</oc:propid>
+          <oc:var_label type="decimal">Dm::Standard measurement</oc:var_label>
+          <oc:show_val>15.7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>765A4DB0-8CF5-4489-B0F4-A418FD7C19D8</arch:variableID>
+          <oc:annotations about="765A4DB0-8CF5-4489-B0F4-A418FD7C19D8" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0029" name="GLl" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">26.2</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/32ECF93B-C173-481D-7757-A66B87D67045">32ECF93B-C173-481D-7757-A66B87D67045</oc:propid>
+          <oc:var_label type="decimal">GLl::Standard measurement</oc:var_label>
+          <oc:show_val>26.2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>200856DE-0E09-4C7E-50AE-CA73ED0246BD</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">17.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6CA9C706-962A-4F03-9E4C-029E67D39413">6CA9C706-962A-4F03-9E4C-029E67D39413</oc:propid>
+          <oc:var_label type="decimal">Max breadth of prox end (trochlea)::Standard measurement</oc:var_label>
+          <oc:show_val>17.1</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Recorded by">94AA8533-450D-4FC7-4DC1-3CB12A3FE52C</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/94AA8533-450D-4FC7-4DC1-3CB12A3FE52C" cite="contributor">
+            <oc:name>Nerissa Russell</oc:name>
+            <oc:id>94AA8533-450D-4FC7-4DC1-3CB12A3FE52C</oc:id>
+            <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/E44A115A-DFCB-4971-6750-40955DF2C062">
+        <oc:name>Çatalhöyük</oc:name>
+        <oc:id>E44A115A-DFCB-4971-6750-40955DF2C062</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6">
+        <oc:name>Mound East</oc:name>
+        <oc:id>A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Mound</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/mound_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/3EF98C59-0E89-4519-0132-44101D3C70D6">
+        <oc:name>Area 4040</oc:name>
+        <oc:id>3EF98C59-0E89-4519-0132-44101D3C70D6</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D064FC8E-A9B9-4FEA-D3A6-070DCE172728">
+        <oc:name>Unit 13418</oc:name>
+        <oc:id>D064FC8E-A9B9-4FEA-D3A6-070DCE172728</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Çatalhöyük Zooarchaeology: 13418.F3 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-14</dc:date>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Central Anatolia</dc:subject>
+    <dc:subject>Çatalhöyük</dc:subject>
+    <dc:subject>Animal Economy</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/94AA8533-450D-4FC7-4DC1-3CB12A3FE52C">Nerissa Russell</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/2664C6A9-3867-4EC7-C7A6-F60C688E7008">David Orton</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/A19416EE-54ED-4982-5FF6-DBBC56AD9138</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/1B426F7C-99EC-4322-4069-E8DBD927CCF1">Çatalhöyük Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=%C3%87atalh%C3%B6y%C3%BCk+Zooarchaeology%3A+13418.F3+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=Faunal+data&amp;rft.subject=Mammal+Remains&amp;rft.subject=Neolithic&amp;rft.subject=Central+Anatolia&amp;rft.subject=%C3%87atalh%C3%B6y%C3%BCk&amp;rft.subject=Animal+Economy&amp;rft.contributor=Nerissa+Russell&amp;rft.creator=David+Orton&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FA19416EE-54ED-4982-5FF6-DBBC56AD9138</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.668196</oc:geo_lat>
+      <oc:geo_long>32.827191</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6">
+        <oc:source_name>Mound East</oc:source_name>
+        <oc:source_id>A4D8DDA4-44C6-4EAE-4EF6-685BA2A3D7F6</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-08-11T01:13:09-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/08/11 01:13:09</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 6,200 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-6200</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D064FC8E-A9B9-4FEA-D3A6-070DCE172728">
+            <oc:source_name>Unit 13418</oc:source_name>
+            <oc:source_id>D064FC8E-A9B9-4FEA-D3A6-070DCE172728</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-03-06T10:17:56-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
